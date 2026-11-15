@@ -1,7 +1,7 @@
 {
   "name": "Cek Saldo Santri - PPTQ Al Husna Lestari",
-  "short_name": "Saldo Santri",
-  "description": "Portal Cek Saldo & Mutasi Uang Saku Santri PPTQ Al Husna Lestari Klaten",
+  "short_name": "Al Husna Mobile",
+  "description": "Portal Cek Saldo, Mutasi Uang Saku dan Presensi Jama'ah Santri PPTQ Al Husna Lestari Klaten",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f0fdf4",
